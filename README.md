@@ -13,7 +13,7 @@ the weight has taken alot of inspo from the cycle7 with the main gimmick of the 
 
 
 ![alt text](https://github.com/ShrimpedKeyboard/INVertex/blob/main/Renders/Hineybeige%205.png?raw=true)
-![alt text](https://github.com/ShrimpedKeyboard/INVertex/blob/main/Renders/Invertex%209009%20blue.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/INVertex/blob/main/Renders/Invertex%20Anti%20greg.png?raw=true)
 ![alt text](https://github.com/ShrimpedKeyboard/INVertex/blob/main/Renders/Invertex%20e-white%20weight.png?raw=true)
 ![alt text](https://github.com/ShrimpedKeyboard/INVertex/blob/main/Renders/Invertex%20Break%20down.png?raw=true)
 

@@ -2,6 +2,8 @@
 
 The invertex NRL is a FRLNRLTKL With a flippable top case
 
+Protos have been ordered cannot wait to get my hands on this thing 
+
 ## Case
 
 The four peice case is connected with taobao ball catch systems and screws for the optional internal weights and large external weight
@@ -10,9 +12,10 @@ The layout is only flippable with a tadpole plate. If you are looking to flip th
 the weight has taken alot of inspo from the cycle7 with the main gimmick of the board inspired by the flip6p
 
 
-![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Minaneko%20case%201.png?raw=true)
-![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Case%204.png?raw=true)
-![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Case%203.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/INVertex/blob/main/Renders/Hineybeige%205.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/INVertex/blob/main/Renders/Invertex%209009%20blue.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/INVertex/blob/main/Renders/Invertex%20e-white%20weight.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/INVertex/blob/main/Renders/Invertex%20Break%20down.png?raw=true)
 
  --- 
 
